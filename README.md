@@ -74,7 +74,7 @@ Note that voters and delegates will receive some Eth for gas.
 
 First param is the voter/delegate address
 Second param is the poll
-Therd param is the option to voto (relative to zero)
+Third param is the option to veto (relative to zero)
 
 #### Print Info
 
